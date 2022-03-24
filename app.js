@@ -1,8 +1,3 @@
-
-
-
-
-
 function name(){
     var n = prompt("What is your name?")
     return n
